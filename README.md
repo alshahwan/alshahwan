@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="http://alshahwan.de/">@Alshahwan</a></h1>
-<h3 align="center">A junior frontend developer, working at <a href="https://ito-consult.de/">ito consult</a> in Dresden, Germany</h3>
+<h3 align="center">A freelance web developer, living in Dresden, Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
