@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="http://alshahwan.de/">@Alshahwan</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="http://alshahwan.de/">Mohammad Alshahwan</a></h1>
 <h3 align="center">A freelance web developer, living in Dresden, Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
